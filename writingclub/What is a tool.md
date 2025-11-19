@@ -42,6 +42,8 @@ Some hundred years ago, the director of the Gazelle bicycle factory claimed %% f
 
 The assumption that there was such a prototype form seems to have been pretty common back then. 
 
+The bikes that Gazelle  made back then still exist, as "retro bikes", nearly unchanged.  But they've added new categories of more specialized bicycles. These don't have the same essence. A hundred years ago, the essence of a bicycle was that it was human-powered. If we are "essentialists", we have to confront the fact that the emergence of e-bikes has either changed the essence of what a bike is, or that they are (essentially) not bicycles.
+
 
 
 # reading
