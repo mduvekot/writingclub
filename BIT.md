@@ -502,27 +502,6 @@ Trust in your own judgment is also bound up with concerns about how the more com
  Self-identity is also linked to social identity, where individuals may not want to reveal they are AI users as they may be perceived to lack competence or to be lazy. In one experiment, researchers asked 1,215 participants to evaluate fictional employees described as receiving help from different sources. They observed a social penalty for using AI, where people who used AI were consistently rated as lazier, less competent and less diligent. This held true irrespective of the fictitious employee’s gender, age or occupation. %%Because they are? Has that occurred to you?%%
 
 -50-
-# interruption - a few questions
-
-"My understanding is that nudge theory was developed in a libertarian/utitilarian framework, here the objects/targets were presumed to retain the freedom to choose to "comply". Within the context of a mandate to use AI, though, this freedom no longer exists. Does that have ethical implications for how the nudges are applied?"
-
-“Nudge theory was justified on the basis of preserving freedom of choice. If AI adoption is mandated, that freedom no longer exists. Isn’t calling these interventions ‘nudges’ just a way of disguising coercion — and doesn’t that raise serious ethical concerns?”
-
-- **On manufactured champions** _“You recommend creating AI champions rather than letting them emerge naturally. Isn’t that social engineering — manufacturing enthusiasm to simulate grassroots adoption?”_
-    
-- **On engagement metrics** _“Your experiments measure engagement by clicks and usage. Why not measure utility — whether the chatbot actually solved problems — instead of just whether people were tricked into using it?”_
-    
-- **On cognitive load misuse** _“Psychologists define cognitive load as working memory demand. Why does your report use it loosely to mean ‘friction’? Isn’t that a dilution of the concept?”_
-    
-- **On optimism bias framing** _“You call workers’ fears ‘optimism bias.’ But employers are openly planning layoffs. Isn’t it misleading to frame justified anxiety as a cognitive flaw?”_
-    
-- **On AI‑authored documents** _“This report is unusually verbose and riddled with typos. Was it drafted with AI? And if so, how do you reconcile promoting AI adoption while showcasing its flaws in your own outputs?”_
-    
-- **On sludge audits** _“You claim researchers had success using AI to detect friction in sludge audits. Can you point to published evidence? Because I haven’t found any.”_
-- 
-- **On shallow use**: Satya Nadella’s use of AI is shallow: drafting emails, summarizing documents, turning text into podcasts. Those are convenience features, not deep engagement with the technology. He can't code, he can't set up an MCP server. Nothing suggest he is personally engaged in Deep AI. Every single other "AI leader" I've looked into is the same. 
-
--50-
 
 In a follow-up experiment, they also demonstrated that those who used AI themselves were much more likely to hire candidates who used AI regularly. In some professions, particularly those where expertise and judgement are central to professional identity (eg, healthcare), use of AI can feel like a threat. However, responses are often mixed and there are differing reactions by context, task and individual attributes. This concern also extends to the creative fields, where many artists and writers worry about AI-generated outputs. Equally, though, there are some actively using AI as a co-creative partner, allowing them to expand what’s possible. Leaders should recognise this diversity in response and identify which aspects of professional identity in their organisation are most sensitive to AI. %%Not exacty equally. There are a few, and they're near universally despised.  %%
 
@@ -600,6 +579,28 @@ Adoption can also hinge on factors outside an organisation’s direct control. I
 → Avoiding overly human-like features in high-pressure contexts: for example, machine-like bots were better received when delivering bad news or collecting sensitive personal data. 
 
 While these studies are focused on customer satisfaction and sales, lessons from these findings can equally apply to adoption among employees. Organisations should choose AI products whose features match the needs of the context.
+
+# interruption - a few questions
+
+"My understanding is that nudge theory was developed in a libertarian/utitilarian framework, here the objects/targets were presumed to retain the freedom to choose to "comply". Within the context of a mandate to use AI, though, this freedom no longer exists. Does that have ethical implications for how the nudges are applied?"
+
+* **On nudge theory** *Nudge theory was justified on the basis of preserving freedom of choice. If AI adoption is mandated, that freedom no longer exists. Isn’t calling these interventions ‘nudges’ just a way of disguising coercion — and doesn’t that raise serious ethical concerns?*
+
+- **On manufactured champions** _“You recommend creating AI champions rather than letting them emerge naturally. Isn’t that social engineering — manufacturing enthusiasm to simulate grassroots adoption?”_
+    
+- **On engagement metrics** _“Your experiments measure engagement by clicks and usage. Why not measure utility — whether the chatbot actually solved problems — instead of just whether people were tricked into using it?”_
+    
+- **On cognitive load misuse** _“Psychologists define cognitive load as working memory demand. Why does your report use it loosely to mean ‘friction’? Isn’t that a dilution of the concept?”_
+    
+- **On optimism bias framing** _“You call workers’ fears ‘optimism bias.’ But employers are openly planning layoffs. Isn’t it misleading to frame justified anxiety as a cognitive flaw?”_
+    
+- **On AI‑authored documents** _“This report is unusually verbose and riddled with typos. Was it drafted with AI? And if so, how do you reconcile promoting AI adoption while showcasing its flaws in your own outputs?”_
+    
+- **On sludge audits** _“You claim researchers had success using AI to detect friction in sludge audits. Can you point to published evidence? Because I haven’t found any.”_
+- 
+- **On shallow use**: Satya Nadella’s use of AI is shallow: drafting emails, summarizing documents, turning text into podcasts. Those are convenience features, not deep engagement with the technology. He can't code, he can't set up an MCP server. Nothing suggest he is personally engaged in Deep AI. Every single other "AI leader" I've looked into is the same. 
+
+
 
 -56-
 # Align
