@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39d86792639ef803",
+        "id": "d418b77e475abb36",
         "type": "tabs",
         "children": [
           {
-            "id": "99edc391fa4b5da9",
+            "id": "cbd18674a079dbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a tool.md",
+                "file": "BIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a tool"
+              "title": "BIT"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8f2acc31b822b78",
@@ -191,6 +192,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99edc391fa4b5da9",
-  "lastOpenFiles": []
+  "active": "cbd18674a079dbd4",
+  "lastOpenFiles": [
+    "BIT.md",
+    "What is a tool.md",
+    "2025-11-20.md",
+    "2025-11-19.md",
+    "export_data/fieldinstances.json",
+    "export_data/fielddefinitions.json",
+    "export_data/access.json",
+    "export_data/calendarevents.json",
+    "export_data/tombstones.json",
+    "export_data/syncpoints.json",
+    "export_data/brainusers.json",
+    "export_data/modificationlogs.json",
+    "export_data/attachments.json",
+    "export_data/settings.json",
+    "export_data/a9506cee-eb92-4886-86e8-f155068053cc/Notes.md",
+    "export_data/40170d1c-e569-408a-9ae5-36c4310fa5b0/Notes.md",
+    "export_data/bd1cbd93-8f8e-4d56-ac7d-84f7e54a6103/Notes.md",
+    "export_data/4854bb38-40bf-4419-b8cb-ad013e28913f/Notes.md",
+    "export_data/8a313372-ce02-4f71-8bdd-0e0e163ce3af/Notes.md",
+    "export_data/f8a54e73-9b3e-461d-bd1d-182100bda968/wallpaper.png",
+    "export_data/f4dfd0c4-629e-4465-ab60-0f6f71e7912f/Notes.md",
+    "export_data/a1ad1742-de03-44ae-aacc-196d4fa14139/Notes.md",
+    "export_data/14346f08-728a-4ed0-97af-8810430b08d3/Notes.md",
+    "export_data/8ba436f5-4d02-41aa-8435-02026498021b/Notes.md"
+  ]
 }
