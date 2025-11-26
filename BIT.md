@@ -9,7 +9,7 @@ That’s not a hypothetical goal. The people building advanced AI are already us
 and a slow, deliberative and analytical 'System 2'. %%You might have added a citation here. Anyway, That's how brains work. Why assume that making AI work like brains is going to allow it to surpass human intelligence.? That's like bringing horses back into formula 1 racing to make the cars go faster. LLMs do not resemble system 1 thinking. That's just not true.%%
 
 Behavioural science can make a crucial contribution to these efforts. The
-main insight it brings is the importance of metacognition: the ability to
+main insight it brings is the importance of metacognition %%but metacognition is not the subject of behavioural science, is it?%%: the ability to
 think about your thinking and adjust your approach accordingly. For AI
 systems, this means the ability to match thinking fast or thinking slow to the
 task at hand. %%But System 1/2 is how humans think (supposedly, it's contestable) , but it's definitely NOT how AIs "think". AIs don't have those two modes. If I ask an LMM to factorize 97015669, it should not use heuristic methods but use a algorithm. That's not "metacognition". In fact, the LLM should refuse to answer the questions. It should just say; I am a really, really inefficient way of getting an (probably wrong) answer. Use a tool that is built for this purpose instead. BTW 7,919 times 12,251 is 97,015,669%%
@@ -57,7 +57,7 @@ Initially, this shift was achieved by adding external reasoning tools on top of 
 
 -15-
 
-→ Structure%%sic!%% Search: Employing algorithms like Monte Carlo Tree Search (MCTS) to allow the model to explore and evaluate multiple potential reasoning paths before committing to an answer. 
+→ Structure%%sic!%% Search: Employing algorithms like Monte Carlo Tree Search (MCTS) to allow the model to explore and evaluate multiple potential reasoning paths before committing to an answer. %%MCTS is heuristic search, not structure(d) search%%
 → Self-Improvement: Designing models that can learn from their own outputs, using self-generated data to enhance reasoning skills without constant human supervision.%%One wonders how self-generated data enhances reasoning skills. Care to elaborate?%%
 
 The resulting 'Long Chain-of-Thought' outputs have improved the performance of AI models. Essentially, developers have been building System 2-like processes on top of a System 1-like architecture. 
@@ -582,7 +582,7 @@ While these studies are focused on customer satisfaction and sales, lessons from
 
 # interruption - a few questions
 
-"My understanding is that nudge theory was developed in a libertarian/utitilarian framework, here the objects/targets were presumed to retain the freedom to choose to "comply". Within the context of a mandate to use AI, though, this freedom no longer exists. Does that have ethical implications for how the nudges are applied?"
+* **On nudge theory** You barely mention it in the paper, but as I understand nudge theory, it was developed in a somewhat libertarian/utilitarian framework and the  ethical deployment of psychological manipulation justified on the basis of preserving freedom of choice ~~(where the people were presumed to retain the freedom to choose whether they want to "comply").~~ Within the context of a mandate to use AI, though, this freedom to not comply no longer exists. Does that have  implications for how the nudges can be deployed ethically?
 
 * **On nudge theory** *Nudge theory was justified on the basis of preserving freedom of choice. If AI adoption is mandated, that freedom no longer exists. Isn’t calling these interventions ‘nudges’ just a way of disguising coercion — and doesn’t that raise serious ethical concerns?*
 
