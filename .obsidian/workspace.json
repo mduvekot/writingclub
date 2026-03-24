@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7fdabce9c57e1d",
+        "id": "bd8aeb5dd72fc08f",
         "type": "tabs",
         "children": [
           {
-            "id": "5007e3bf6859e2ab",
+            "id": "dd658defc9b1822a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2026-02-27.md",
-                "bFile": "2026-02-27.md",
-                "aRef": ""
+                "file": "De-google.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-02-27"
+              "icon": "lucide-file",
+              "title": "De-google"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5007e3bf6859e2ab",
+  "active": "dd658defc9b1822a",
   "lastOpenFiles": [
     "De-google.md",
     "AI playbook.md",
