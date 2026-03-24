@@ -1,0 +1,2 @@
+The objective it is designed to satisfy does not determine the shape of the tool. Rather, the operand/operator relationship does. A compass is a tool for drawing circles. The shape of the of the compass is not determined by the circle.  There are many ways to draw circles. Paper (the operand) determined the pencil lead tip and the needle point. The fingers of the user determine the handle and the adjusting screw.
+

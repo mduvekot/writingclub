@@ -1,0 +1,3 @@
+"Auf Schelling folgte jetzt schon eine philosophische Ministerkreatur, der, in politischer, obendrein mit einem Fehlbegriff bedienter Absicht, von oben herunter zum großen Philosophen gestempelter Hegel, ein platter, geistloser, ekelhaft-widerlicher, unwissender Scharlatan, der, mit beispiellosen Frechheit, Aberwitz und Unsinn zusammenschmierte, welche von seinen Anhängern als Weisheit ausposaunt und von Dummköpfen richtig dafür genommen wurde, wodurch ein so vollständiger Chorus der Bewundrung entstand, wie man ihn nie zuvor vernommen hatte."
+
+Schopenhauer, A. (1862). _Parerga und Paralipomena: Kleine philosophische Schriften_. A. W. Hahn. 2nd ed. pp. 104-105

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d418b77e475abb36",
+        "id": "3f7fdabce9c57e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd18674a079dbd4",
+            "id": "5007e3bf6859e2ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "BIT.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2026-02-27.md",
+                "bFile": "2026-02-27.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "BIT"
+              "icon": "diff",
+              "title": "Diff: 2026-02-27"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "marx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e8f2acc31b822b78",
@@ -192,31 +192,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd18674a079dbd4",
+  "active": "5007e3bf6859e2ab",
   "lastOpenFiles": [
-    "BIT.md",
+    "De-google.md",
+    "AI playbook.md",
+    "What determines the constraints a tool is subject to?.md",
+    "What determines the shape of a tool.md",
+    "2026-03-20.md",
+    "2026-03-16.md",
+    "2026-03-19.md",
+    "2026-03-10.md",
+    "2026-03-13.md",
+    "2026-03-05.md",
+    "Gander Slop.md",
+    "misconceptions.md",
+    "Truisms.md",
+    "2025-11-17.md",
     "What is a tool.md",
-    "2025-11-20.md",
-    "2025-11-19.md",
-    "export_data/fieldinstances.json",
-    "export_data/fielddefinitions.json",
-    "export_data/access.json",
-    "export_data/calendarevents.json",
-    "export_data/tombstones.json",
-    "export_data/syncpoints.json",
-    "export_data/brainusers.json",
-    "export_data/modificationlogs.json",
-    "export_data/attachments.json",
-    "export_data/settings.json",
-    "export_data/a9506cee-eb92-4886-86e8-f155068053cc/Notes.md",
-    "export_data/40170d1c-e569-408a-9ae5-36c4310fa5b0/Notes.md",
-    "export_data/bd1cbd93-8f8e-4d56-ac7d-84f7e54a6103/Notes.md",
-    "export_data/4854bb38-40bf-4419-b8cb-ad013e28913f/Notes.md",
-    "export_data/8a313372-ce02-4f71-8bdd-0e0e163ce3af/Notes.md",
-    "export_data/f8a54e73-9b3e-461d-bd1d-182100bda968/wallpaper.png",
-    "export_data/f4dfd0c4-629e-4465-ab60-0f6f71e7912f/Notes.md",
-    "export_data/a1ad1742-de03-44ae-aacc-196d4fa14139/Notes.md",
-    "export_data/14346f08-728a-4ed0-97af-8810430b08d3/Notes.md",
-    "export_data/8ba436f5-4d02-41aa-8435-02026498021b/Notes.md"
+    "2026-02-27.md",
+    "2026-03-03.md",
+    "2026-03-02.md",
+    "2026-02-12.md",
+    "2026-02-20.md",
+    "2026-02-03.md",
+    "2026-01-30.md",
+    "2026-01-29.md",
+    "deleteme.md",
+    "Best Practices Guide for Neighborhood or Area Patrol.md",
+    "Asking Useful Questions About Tools.md",
+    "grammar_glossary/glossary249.jpg",
+    "grammar_glossary/glossary248.jpg",
+    "grammar_glossary/glossary250.jpg",
+    "grammar_glossary/glossary254.jpg",
+    "grammar_glossary/glossary255.txt",
+    "grammar_glossary/glossary254.txt",
+    "grammar_glossary/glossary253.txt",
+    "grammar_glossary/glossary252.txt",
+    "grammar_glossary/glossary251.txt",
+    "grammar_glossary/glossary250.txt",
+    "grammar_glossary/glossary249.txt",
+    "grammar_glossary/glossary248.txt",
+    "grammar_glossary/glossary255.jpg",
+    "grammar_glossary/glossary253.jpg",
+    "grammar_glossary/glossary252.jpg",
+    "grammar_glossary/glossary251.jpg",
+    "grammar_glossary",
+    "glossary255.jpg",
+    "glossary254.jpg",
+    "Untitled.base",
+    "Untitled.canvas"
   ]
 }

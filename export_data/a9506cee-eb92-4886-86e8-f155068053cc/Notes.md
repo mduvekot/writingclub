@@ -1,2 +1,0 @@
-﻿a mechanical device 
-
