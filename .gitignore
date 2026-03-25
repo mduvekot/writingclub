@@ -1,0 +1,27 @@
+# Ignore Obsidian workspace and UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore appearance and cache files
+.obsidian/appearance.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/data.json
+
+# Optional: ignore ALL Obsidian settings (many people do this)
+.obsidian/
+
+# Ignore volatile Obsidian files
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+
+# Ignore Obsidian Git plugin internals
+.obsidian/plugins/obsidian-git/git_credentials_input
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/styles.css
+
+# Ignore workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
