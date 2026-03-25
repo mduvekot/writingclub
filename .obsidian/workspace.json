@@ -11,14 +11,15 @@
             "id": "dd658defc9b1822a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "De-google.md",
-                "mode": "source",
-                "source": false
+                "aFile": "De-google.md",
+                "bFile": "De-google.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "De-google"
+              "icon": "diff",
+              "title": "Diff: De-google  (Index)"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marx",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "De-google.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of De-google"
             }
           },
           {
@@ -178,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 551.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd658defc9b1822a",
+  "active": "a251023a94da2737",
   "lastOpenFiles": [
     "De-google.md",
     "AI playbook.md",
