@@ -1,5 +1,5 @@
 
-Paris Marx' list
+# Paris Marx list
 https://disconnect.blog/getting-off-us-tech-a-guide/
 
 # David Numan's list
